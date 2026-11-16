@@ -1,0 +1,246 @@
+版本号：1.0.0
+维护者：D_D
+更新时间：2026-11-16
+
+// AO3 Translator 英中同人术语表：优先规范标签、常见梗及同人专有表达。
+// 注意：通用词条不区分大小写，会影响正文；避免收录 M、E、T、G、Top、Bottom、Heat 等过于常见或过短的词。
+// 含标点的原文用双引号包裹，以便精确匹配。
+// 采用常见中文同人圈译名，不保证每个语境均适用；可在本地词条中覆盖。
+
+词条
+// 缩写、格式固定的大小写敏感标签
+AO3：AO3
+RPF：真人同人
+RPS：真人配对同人
+AU：架空设定
+OOC：角色性格偏离原作
+OC：原创角色
+POV：视角
+WIP：连载中
+PWP：无剧情肉文
+NSFW：不宜在公共场合阅读
+UST：未解决的性张力
+BDSM：BDSM
+ABO：ABO
+"A/B/O"：ABO
+Mpreg：男性怀孕
+Dub-Con：同意界限模糊
+Non-Con：非自愿性行为
+Dead Dove：死鸽警告
+
+通用词条
+// AO3 档案警告与分级名称
+General Audiences：全年龄向
+Teen And Up Audiences：青少年及以上
+Mature：成人主题
+Explicit：露骨成人内容
+Not Rated：未分级
+No Archive Warnings Apply：无适用的档案警告
+Creator Chose Not To Use Archive Warnings：作者选择不标注档案警告
+Graphic Depictions Of Violence：详细暴力描写
+Major Character Death：主要角色死亡
+"Rape/Non-Con"：强奸或非自愿性行为
+Underage：未成年性内容
+
+// 常见关系和配对
+"Male/Male"：男男配对
+"Female/Female"：女女配对
+"Female/Male"：男女配对
+Gen Fic：无恋爱主线的同人文
+Polyamory：多重恋爱关系
+Polyamorous Relationship：多伴侣恋爱关系
+Established Relationship：已确立恋爱关系
+Secret Relationship：秘密恋情
+Fake Dating：假装交往
+Arranged Marriage：包办婚姻
+Marriage Of Convenience：契约婚姻
+Forbidden Love：禁忌之恋
+Age Difference：年龄差
+Age Gap：年龄差
+Friends To Lovers：朋友变恋人
+Enemies To Lovers：死对头变恋人
+Rivals To Lovers：竞争对手变恋人
+Strangers To Lovers：陌生人变恋人
+Childhood Friends To Lovers：青梅竹马变恋人
+Lovers To Enemies：恋人变仇敌
+Exes To Lovers：前任复合
+Mutual Pining：双向暗恋
+Unrequited Love：单恋
+One-Sided Pining：单向暗恋
+Slow Burn：慢热恋爱
+Love Confession：爱情告白
+First Kiss：初吻
+First Love：初恋
+Love Triangle：三角恋
+Jealousy：嫉妒、吃醋
+Possessive Behavior：占有欲行为
+Protective Behavior：保护欲行为
+Obsessive Love：病态执恋
+Codependency：共依存
+Miscommunication：沟通误会
+Idiots In Love：恋爱笨蛋
+Only One Bed：只有一张床
+Forced Proximity：被迫近距离相处
+Friends With Benefits：炮友关系
+Domestic Fluff：温馨同居日常
+Domesticity：居家日常
+Getting Together：确立恋爱关系
+Break Up：分手
+Breakup：分手
+Reunion：重逢
+
+// 情绪、剧情与结局
+Fluff：甜蜜温馨
+Tooth-Rotting Fluff：甜到蛀牙
+Angst：虐心
+Light Angst：轻微虐心
+Heavy Angst：重度虐心
+Angst And Fluff：甜虐交织
+Angst With A Happy Ending：虐后圆满
+"Hurt/Comfort"：伤痛与安慰
+Hurt No Comfort：只有伤害没有安慰
+"Hurt/No Comfort"：只有伤害没有安慰
+"Emotional Hurt/Comfort"：情感创伤与安慰
+Emotional Hurt：情感创伤
+Emotional Whump：精神折磨
+Whump：角色受虐
+Trauma Recovery：创伤恢复
+Trauma：创伤
+"Grief/Mourning"：悲痛与哀悼
+Panic Attacks：惊恐发作
+Abandonment Issues：被遗弃恐惧
+Nightmares：噩梦
+Emotional Manipulation：情感操控
+Toxic Relationship：有毒关系
+Unhealthy Relationship：不健康的关系
+Betrayal：背叛
+Happy Ending：幸福结局
+Unhappy Ending：悲剧结局
+Bittersweet Ending：苦乐参半的结局
+Open Ending：开放式结局
+Ambiguous Ending：含糊不明的结局
+Alternate Ending：改写结局
+
+// 世界观与 AU
+Alternate Universe：平行宇宙设定
+Modern AU：现代背景架空
+Modern Setting：现代背景
+Alternate Universe - Modern Setting：架空设定：现代背景
+Canon Divergence：原作剧情分歧
+Canon Compliant：遵循原作设定
+College AU：大学校园 AU
+University AU：大学校园 AU
+High School AU：高中校园 AU
+Coffee Shop AU：咖啡店 AU
+Office AU：职场 AU
+Idol AU：偶像 AU
+Celebrity AU：明星 AU
+Mafia AU：黑帮 AU
+Royalty AU：王室 AU
+Historical AU：历史背景 AU
+Fantasy AU：奇幻 AU
+Supernatural AU：超自然 AU
+Vampire AU：吸血鬼 AU
+Werewolf AU：狼人 AU
+Soulmate AU：灵魂伴侣 AU
+Soulmates：灵魂伴侣
+Hanahaki Disease：花吐症
+Time Travel：时间旅行
+Time Loop：时间循环
+Reincarnation：转世轮回
+Body Swap：身体互换
+Genderbend：性转
+Gender Swap：性别互换
+Hybrid AU：混种族 AU
+Mermaid AU：人鱼 AU
+"Angel/Demon AU"：天使与恶魔 AU
+Apocalypse AU：末日 AU
+Zombie Apocalypse：丧尸末日
+Omegaverse：ABO 世界观
+
+// ABO 专属术语：优先收录组合形式，降低对普通叙述的误替换
+"Alpha/Beta/Omega Dynamics"：ABO 动态设定
+"Non-Traditional Alpha/Beta/Omega Dynamics"：非传统 ABO 设定
+"Alpha/Omega"：Alpha 与 Omega 配对
+"Alpha/Alpha"：双 Alpha 配对
+"Omega/Omega"：双 Omega 配对
+Alpha Scent：Alpha 信息素气味
+Omega Scent：Omega 信息素气味
+Scent Marking：气味标记
+Scenting：沾染气味
+Pheromones：信息素
+Heat Suppressants：发情抑制剂
+Mating Bond：伴侣联结
+Mating Bite：伴侣咬痕
+Mating Mark：伴侣标记
+Omega Nesting：Omega 筑巢
+Male Pregnancy：男性妊娠
+"Alpha/Omega Politics"：ABO 社会权力关系
+
+// 亲密和成人向：避免把短词及普通动词锁定为性含义
+Smut：肉文
+Porn With Plot：有剧情的肉文
+Porn With Feelings：有感情描写的肉文
+Sexual Tension：性张力
+Making Out：热吻亲热
+Aftercare：事后照顾
+Praise Kink：赞美癖
+Dirty Talk：情色挑逗性语言
+Body Worship：身体崇拜
+Size Difference：体型差
+Size Kink：体型差偏好
+Power Dynamics：权力关系
+Power Imbalance：权力不对等
+"Dom/Sub"：支配与臣服关系
+Rough Sex：激烈性行为
+Gentle Sex：温柔性行为
+Dubious Consent：同意界限模糊
+Non-Consensual：非自愿
+Somnophilia：睡眠相关性癖好
+Exhibitionism：暴露癖
+Voyeurism：窥视癖
+Breeding Kink：受孕癖好
+Pregnancy Kink：怀孕相关癖好
+Knotting：结节锁定
+
+// 黑暗题材与提醒
+Darkfic：黑暗题材同人
+"Dead Dove: Do Not Eat"：死鸽勿食
+Psychological Abuse：精神虐待
+Domestic Violence：家庭暴力
+Self-Harm：自伤
+Suicide Attempt：自杀未遂
+Stockholm Syndrome：斯德哥尔摩综合征
+Gaslighting：心理操纵
+Dubious Morality：模糊的道德立场
+
+// 篇幅、创作与叙事
+One Shot：一发完
+One-Shot：一发完
+Two Shot：两章完结
+Two-Shot：两章完结
+Multi-Chapter：多章节
+Longfic：长篇同人
+Drabble：极短篇
+Work In Progress：连载中
+Complete Work：已完结作品
+Completed Work：已完结作品
+Abandoned Work：弃坑作品
+Fix-It Fic：修正原作遗憾的同人
+Missing Scene：原作空白补充场景
+Multiple POV：多视角
+First Person POV：第一人称视角
+Reader Insert：读者代入文
+Self-Insert：作者自我代入
+Original Character：原创角色
+Crack Treated Seriously：认真书写荒诞设定
+No Beta We Die Like Men：未经校对直接发布
+Inspired By：灵感来自
+
+禁翻词条
+// 此处保护平台名称与常见专有缩写，避免其被通用词条意外覆盖
+AO3
+BDSM
+
+// 暂不启用正则表达式：无必要时避免全局替换风险。
+// 如果需要增补复杂词形，请测试后再加入“正则表达式”区。
